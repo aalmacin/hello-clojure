@@ -14,7 +14,6 @@
 					(reduce str (map joiner (remove-last friends)))
 					(reduce str (get-last friends))
 				)
-				; (reduce joiner ( remove-last friends ) )
 			)
 		)
 )
